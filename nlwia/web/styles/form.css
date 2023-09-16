@@ -9,17 +9,17 @@
   width: 450px;
   border: none;
   color: #fff;
-  background-color: rgb(49, 46, 46);
+  background-color: #202024;
   border-radius: 5px;
   padding: 0 12px;
   font-size: 16px;
 }
 
-#form > input :focus {
+#form > input:focus {
   outline: 2px solid #8257e5;
 }
 
-#form > input :valid {
+#form > input:valid {
   background-color: #202024;
 }
 
@@ -34,8 +34,8 @@
   transition: background-color 0.2s;
 }
 
-#form > button:hover{
-  background-color: #9576de;
+#form > button:hover {
+  background-color: #633bbc;
 }
 
 #form > button i {
