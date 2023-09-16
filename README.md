@@ -1,4 +1,4 @@
-# Site IA com Shorts
+# YouTube Shorts to Text: IA-Powered Video Transcription
 
 Este projeto é uma aplicação web que utiliza uma Inteligência Artificial para converter vídeos curtos (Shorts) do YouTube em texto, oferecendo legendas automaticamente.
 
